@@ -30,10 +30,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fahim-fm&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fahim-fm&theme=react-dark" alt="Contribution Graph"/>
-</p>
+
 
 <!-- GitHub Streak & Stats -->
 <p align="center">
