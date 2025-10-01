@@ -86,10 +86,6 @@ I love tackling complex problems and bringing creative solutions to life with co
 
 ---
 
-## 🚀 Featured Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fahim-fm&repo=YOUR-REPO-NAME&theme=algolia)](https://github.com/fahim-fm/YOUR-REPO-NAME)
-
----
 
 <p align="center"><i>Let’s build something amazing together!</i></p>
