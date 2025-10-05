@@ -70,18 +70,9 @@ I love tackling complex problems and bringing creative solutions to life with co
   <a href="https://www.linkedin.com/in/fahim-muntasir-bb9420336/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-   <a href="https://fahim92.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white&style=for-the-badge" alt="Portfolio">
+  <a href="https://fahim92.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=freecad&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
-  <!-- Uncomment and add your handles below if you want more social links -->
-  <!--
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-  </a>
-  <a href="https://facebook.com/yourhandle">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
-  </a>
-  -->
 </p>
 
 ---
