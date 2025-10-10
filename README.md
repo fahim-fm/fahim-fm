@@ -21,9 +21,6 @@
   <b>Full Stack Developer</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahim-fm&color=blue" alt="Profile Views"/>
-</p>
 
 <!-- Trophy showcase -->
 <p align="center">
@@ -80,3 +77,7 @@ I love tackling complex problems and bringing creative solutions to life with co
 
 
 <p align="center"><i>Let’s build something amazing together!</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahim-fm&color=blue" alt="Profile Views"/>
+</p>
+
